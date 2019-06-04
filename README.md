@@ -1,6 +1,8 @@
 # kfappfoundry
 This is an Open Source project that standardizes, automates and accelerates the end to end lifecycle of modern cloud native applications based on the Java Micro-services ecosystem
 
+Note : Project is still in active development !
+
 The main goals of the Project are :
 
 Domain Driven Development
