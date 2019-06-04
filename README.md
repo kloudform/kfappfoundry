@@ -6,7 +6,26 @@ The main goals of the Project are :
 Domain Driven Development
 
 - A Common Registry that holds Domain Models as OpenApi3.0 Schemas
-- Complete Workfows for managing Schemas, including a RBAC based workflow 
+- Complete  GitOps style Workfows for managing Schemas, including a RBAC based workflow 
 - Inline Schema Editor that validates against OpenApi3.0 Schema specifications
-- Abilty to Model Prototype based Logical Domain Models( https://pdfs.semanticscholar.org/971a/66a2ff85c5dc14475cf8535df04de8e5c9e0.pdf)
+  Ablity to create Multi-resolutional knowledge models  using prototypes and properties
+  - https://ieeexplore.ieee.org/abstract/document/1245089
+  - ( https://pdfs.semanticscholar.org/971a/66a2ff85c5dc14475cf8535df04de8e5c9e0.pdf)
+
+API First Development
+
+- Ablity to import Common API Schemas to Compose OPenApi 3.0 COmpliant Schemas
+- Autogenerate  Validation code as well as package the Validation Code into Reusable microservices
+
+Composable Integration Workflows
+
+- Ablity to assemble API Implemenation as composable workflows that work on standard patterns like the VETRO (Validation, Enrichment, Transform, Route, Operate) pattern.
+- Generate code to relasise the workflow - Initial support for Apache Camel based runtimes(WSO2 and Mulesof in later versions)
+- Autogenerate Test Stubs to validate APIs
+- Gits Style Workflows 
+
+Common Componnets for :
+
+- Audit Logging( GDPR Compliance coming later)
+- Error Handling and Resubmition portal
 
