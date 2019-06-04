@@ -37,6 +37,14 @@
 		</dependency>
 	</dependencies>
 
+	<modules>
+        <module>l1channel</module>
+        <module>l2channelintegration</module>
+		<module>l3middleware</module>
+        <module>l4adatatier</module>
+		<module>l4beistier</module>
+    </modules>
+
 	<build>
 		<plugins>
 			<plugin>
