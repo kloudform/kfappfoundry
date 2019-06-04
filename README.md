@@ -24,8 +24,25 @@ Composable Integration Workflows
 - Autogenerate Test Stubs to validate APIs
 - Gits Style Workflows 
 
-Common Componnets for :
+Common Components for :
 
 - Audit Logging( GDPR Compliance coming later)
 - Error Handling and Resubmition portal
+- Application Level Monitoring(including constituent microservices and APIs)
+- Common Discovery Service 
+- Common Cloud Config Service with Vault Integration 
+- CEP engine to treat Logs as Streams that can diseccted for Buisness, Performance and Security events
+
+AutoOps for Cloud Native DevSecOps
+
+- PreConfigured pipelines that can deploy a Microservice or API/Integration workflow on Kubernetes or Cloudfoundry
+- Gits Ops Style Auditable and Repeatable Code
+
+DataOps 
+
+Integrate with DataOps tools for end to end DataOps fetaures like 
+- Migration 
+- Snapshots (as an application)
+- Automatically obfuscate production data so as to enable parity in test enviroments 
+
 
