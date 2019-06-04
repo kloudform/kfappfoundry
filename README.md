@@ -5,7 +5,7 @@ Note : Project is still in active development !
 
 The main goals of the Project are :
 
-Domain Driven Development
+**Domain Driven Development**
 
 - A Common Registry that holds Domain Models as OpenApi3.0 Schemas
 - Complete  GitOps style Workfows for managing Schemas, including a RBAC based workflow 
@@ -14,19 +14,19 @@ Domain Driven Development
   - https://ieeexplore.ieee.org/abstract/document/1245089
   - https://pdfs.semanticscholar.org/971a/66a2ff85c5dc14475cf8535df04de8e5c9e0.pdf
 
-API First Development
+**API First Development**
 
 - Ablity to import Common API Schemas to Compose OPenApi 3.0 COmpliant Schemas
 - Autogenerate  Validation code as well as package the Validation Code into Reusable microservices
 
-Composable Integration Workflows
+**Composable Integration Workflows**
 
 - Ablity to assemble API Implemenation as composable workflows that work on standard patterns like the VETRO (Validation, Enrichment, Transform, Route, Operate) pattern.
 - Generate code to relasise the workflow - Initial support for Apache Camel based runtimes(WSO2 and Mulesof in later versions)
 - Autogenerate Test Stubs to validate APIs
 - Gits Style Workflows 
 
-Common Components for :
+**Common Components for  **
 
 - Audit Logging( GDPR Compliance coming later)
 - Error Handling and Resubmition portal
@@ -35,12 +35,12 @@ Common Components for :
 - Common Cloud Config Service with Vault Integration 
 - CEP engine to treat Logs as Streams that can diseccted for Buisness, Performance and Security events
 
-AutoOps for Cloud Native DevSecOps
+**AutoOps for Cloud Native DevSecOps**
 
 - PreConfigured pipelines that can deploy a Microservice or API/Integration workflow on Kubernetes or Cloudfoundry
 - Gits Ops Style Auditable and Repeatable Code
 
-DataOps 
+**DataOps**
 
 Integrate with DataOps tools for end to end DataOps fetaures like 
 - Migration 
