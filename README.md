@@ -12,7 +12,7 @@ Domain Driven Development
 - Inline Schema Editor that validates against OpenApi3.0 Schema specifications
   Ablity to create Multi-resolutional knowledge models  using prototypes and properties
   - https://ieeexplore.ieee.org/abstract/document/1245089
-  - ( https://pdfs.semanticscholar.org/971a/66a2ff85c5dc14475cf8535df04de8e5c9e0.pdf)
+  - https://pdfs.semanticscholar.org/971a/66a2ff85c5dc14475cf8535df04de8e5c9e0.pdf
 
 API First Development
 
